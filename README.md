@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 This project provides an **interactive Power BI dashboard** analyzing **Electric Vehicle (EV) adoption and sales trends**.  
-Dataset includes ~XX,XXX EV registrations across multiple states, with details on **vehicle type, range, manufacturer, price, and location**.
+Dataset includes ~150k EV registrations across multiple states, with details on **vehicle type, range, manufacturer, price, and location**.
 
 ---
 
