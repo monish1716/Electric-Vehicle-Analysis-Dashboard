@@ -18,15 +18,15 @@ Dataset includes ~150k EV registrations across multiple states, with details on 
 ---
 
 ## 📂 Project Files
-- `EV_Dashboard.pbix` → Power BI dashboard  
-- `EV_Data.csv` → EV registration dataset  
-- `EV_Problem.pptx` → Problem statement (optional)  
+- `Electric Vehicle Presentation.pbix` → Power BI dashboard  
+- `Electric_Vehical_Population_Data.csv` → EV registration dataset  
+- `Electric Vehicle Presentation.pptx` → Problem statement (optional)  
 
 ---
 
 ## 🚀 How to Run
-1. Download and open `EV_Dashboard.pbix` in Power BI Desktop  
-2. Connect/load `EV_Data.csv` if required  
+1. Download and open `Electric Vehicle Presentation.pbix` in Power BI Desktop  
+2. Connect/load `lectric_Vehical_Population_Data.csv` if required  
 3. Explore interactive charts & filters  
 
 ---
