@@ -42,7 +42,7 @@ Dataset includes ~150k EV registrations across multiple states, with details on 
 
 ## 🛠️ Tech Stack
 - **Visualization:** Power BI  
-- **Dataset:** EV Registration Data (~XX,XXX rows)  
+- **Dataset:** EV Registration Data (~150k rows)  
 - **Domain:** Electric Vehicles, Sustainability, Clean Energy  
 
 ---
