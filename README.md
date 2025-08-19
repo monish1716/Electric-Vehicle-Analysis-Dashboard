@@ -20,7 +20,7 @@ Dataset includes ~150k EV registrations across multiple states, with details on 
 ## 📂 Project Files
 - `Electric Vehicle Presentation.pbix` → Power BI dashboard  
 - `Electric_Vehical_Population_Data.csv` → EV registration dataset  
-- `Electric Vehicle Presentation.pptx` → Problem statement (optional)  
+- `Electric Vehicle Presentation.pptx` → Problem statement
 
 ---
 
