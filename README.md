@@ -7,7 +7,7 @@
 ---
 
 ## 📊 Dashboard Preview
-![EV Dashboard Screenshot](image/Electric-Vehical-Preview.pngimage)
+![EV Dashboard Screenshot](image/Dashboard-preview.png)
 
 ---
 
