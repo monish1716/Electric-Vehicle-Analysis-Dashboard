@@ -41,7 +41,7 @@ Dataset includes ~150k EV registrations across multiple states, with details on 
 ---
 
 ## 📄 Detailed Case Study
-For the full structured case study (Problem → Data → Approach → Visuals → Key Insights → Business Actions), view: [CASE_STUDY.md](CASE_STUDY.md)
+For the full structured case study view: [CASE_STUDY.md](CASE_STUDY.md)
 
 ---
 
