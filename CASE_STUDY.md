@@ -32,27 +32,27 @@ This project analyzes EV registration data to uncover **trends, market share, an
 - Total Vehicles: **150.42K**  
 - Avg. Electric Range: **67.83 Km**  
 - BEVs: **78% of total**, PHEVs: **22%**  
-![KPI Overview](visuals/kpi_overview.png)
+![KPI Overview](image/kpi_overview.png)
 
 ---
 
 **2. Adoption Over Time (by Model Year)**  
 EV registrations show exponential growth post-2015, peaking around 2021–22.  
-![EV Adoption Trend](visuals/ev_adoption_trend.png)
+![EV Adoption Trend](image/ev_adoption_trend.png)
 
 ---
 
 **3. Market Share by Make & Model**  
 Tesla dominates with ~69% share, followed by Nissan, Chevrolet, and Ford.   
-![Market Share](visuals/market_share_make.png)
+![Market Share](image/market_share_make.png)
 
 ---
 
 **4. Geography & Policy**  
 - **State-level Adoption**: Certain states are clear EV leaders.  
 - **CAFV Eligibility**: Nearly half of EVs qualify for clean-fuel incentives.  
-![State Adoption](visuals/statewise_adoption.png)  
-![CAFV Eligibility](visuals/cafv_eligibility.png)
+![State Adoption](image/statewise_adoption.png)  
+![CAFV Eligibility](image/cafv_eligibility.png)
 
 ---
 
