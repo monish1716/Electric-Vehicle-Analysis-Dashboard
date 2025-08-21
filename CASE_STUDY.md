@@ -1,57 +1,75 @@
-#  Electric Vehicle (EV) Analysis – Detailed Case Study
+# 🚗 Electric Vehicle (EV) Analysis – Detailed Case Study
 
-##  Problem
-EV adoption is rising—but how does it differ by vehicle type (BEV vs PHEV), range vs price, geography, and manufacturers? This project aims to uncover actionable policy and business insights using real-world EV registration data.
-
----
-
-##  Data
-- **Source**: `Electric_Vehicle_Population_Data.csv` (~150k records)  
-- **Key fields**: Registration date, vehicle type (BEV/PHEV), electric range, MSRP, manufacturer, location (state, county), CAFV eligibility.
+## 🔎 Problem
+The electric vehicle market is expanding rapidly, but stakeholders often lack clarity on **who is buying, where adoption is growing, and what factors drive adoption**.  
+This project analyzes EV registration data to uncover **trends, market share, and policy impacts** that can guide businesses, policymakers, and infrastructure planners.
 
 ---
 
-##  Approach
-1. **Data Cleaning & Import** in Power BI (or pre-processing as needed).  
-2. **Dashboard Analysis**:
-   - Trends by state, county, city
-   - BEV vs PHEV comparison
-   - Range vs price correlation
-   - Manufacturer & model popularity
-   - CAFV eligibility mapping  
-3. **Visual Presentation**: Interactive Power BI visuals for deep-dive exploration.
+## 📊 Data
+- **Source**: EV Registration Dataset (~150K records)  
+- **Key Fields**:  
+  - Vehicle type (BEV / PHEV)  
+  - Model year & make  
+  - Electric range (Km)  
+  - MSRP (if available)  
+  - State, county, city  
+  - CAFV (Clean Alternative Fuel Vehicle) eligibility  
 
 ---
 
-##  Visuals
-*(Export these charts as PNGs and place them in `/visuals`, then update the paths below.)*
-
-**1. Year-on-Year Adoption Trends**  
-![EV Trend Overview](visuals/ev_trend_overview.png)
-
-**2. Range vs Price Correlation**  
-![Range vs Price](visuals/range_price_correlation.png)
-
-**3. BEV vs PHEV Adoption Breakdown**  
-![BEV vs PHEV](visuals/bev_phev_breakdown.png)
+## 🛠 Approach
+1. **Data Preparation**: Cleaned and imported dataset into Power BI.  
+2. **Exploratory Analysis**: Created measures for adoption trends, range distribution, BEV vs PHEV splits.  
+3. **Dashboard Design**: Built an interactive Power BI dashboard with filters by city, utility, and vehicle type.  
+4. **Business Context**: Framed insights around market share, adoption by geography, and policy-driven eligibility.  
 
 ---
 
-##  Key Insights
-- EV registrations are trending upward across nearly all states, with sharp growth in certain regions.  
-- A clear positive correlation between electric range and MSRP—higher range command higher price.  
-- BEVs dominate adoption, but PHEVs still retain a foothold, especially in specific markets.  
-- A small group of manufacturers accounts for the majority of EV registrations.  
-- CAFV eligibility hotspots align with areas having strong EV penetration.
+## 📸 Visuals
+
+**1. KPI Overview**  
+- Total Vehicles: **150.42K**  
+- Avg. Electric Range: **67.83 Km**  
+- BEVs: **78% of total**, PHEVs: **22%**  
+![KPI Overview](visuals/kpi_overview.png)
 
 ---
 
-##  Business / Policy Actions
-- **Focus incentives** on high-growth states to accelerate adoption further.  
-- **Align pricing strategies**: Position long-range EVs in premium segments; offer subsidies for mid-range models.  
-- **Manufacturer opportunity**: Partner with or support emerging players driving PHEV sales in underrepresented regions.  
-- **Infrastructure strategy**: Target CAFV-eligible areas for charging infrastructure rollout to sustain adoption trends.
+**2. Adoption Over Time (by Model Year)**  
+EV registrations show exponential growth post-2015, peaking around 2021–22.  
+![EV Adoption Trend](visuals/ev_adoption_trend.png)
 
 ---
 
-This case study delivers a succinct but comprehensive narrative that matches your analytical work with real-world decision-making.
+**3. Market Share by Make & Model**  
+Tesla dominates with ~69% share, followed by Nissan, Chevrolet, and Ford.  
+Popular models include **Model Y, Model 3, and Nissan Leaf**.  
+![Market Share](visuals/market_share_make.png)
+
+---
+
+**4. Geography & Policy**  
+- **State-level Adoption**: Certain states are clear EV leaders.  
+- **CAFV Eligibility**: Nearly half of EVs qualify for clean-fuel incentives.  
+![State Adoption](visuals/statewise_adoption.png)  
+![CAFV Eligibility](visuals/cafv_eligibility.png)
+
+---
+
+## 🔑 Key Insights
+- EV adoption has grown **10x since 2015**, showing mainstream acceptance.  
+- **BEVs dominate** with 78% share, confirming shift toward fully electric vehicles.  
+- **Tesla leads the market** with nearly 70% of vehicles, showing strong brand capture.  
+- **Geography matters**: Adoption is concentrated in specific states, aligning with infrastructure and incentives.  
+- **Policy impact is visible**: CAFV eligibility strongly overlaps with adoption hotspots.  
+
+---
+
+## 🏁 Business & Policy Actions
+- **Automakers**: Focus on expanding BEV offerings; PHEV share is shrinking.  
+- **Infrastructure Providers**: Prioritize charging stations in high-adoption states.  
+- **Governments**: Strengthen CAFV-style incentives to accelerate adoption in lagging regions.  
+- **Investors**: Tesla remains dominant, but space for competitors exists in mid-range EVs and underserved geographies.  
+
+---
