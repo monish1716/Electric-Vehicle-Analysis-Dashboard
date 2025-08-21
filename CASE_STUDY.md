@@ -43,8 +43,7 @@ EV registrations show exponential growth post-2015, peaking around 2021–22.
 ---
 
 **3. Market Share by Make & Model**  
-Tesla dominates with ~69% share, followed by Nissan, Chevrolet, and Ford.  
-Popular models include **Model Y, Model 3, and Nissan Leaf**.  
+Tesla dominates with ~69% share, followed by Nissan, Chevrolet, and Ford.   
 ![Market Share](visuals/market_share_make.png)
 
 ---
